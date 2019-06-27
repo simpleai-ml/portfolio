@@ -15,9 +15,9 @@ params:
     # Main hero title
     title: Learn AI, Machine Learning and Drone Programming.
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    subtitle: STEM Based Program for Students
     # Button text
-    buttontext: Get started
+    buttontext: Get Started
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from static/images/___)
@@ -33,9 +33,9 @@ params:
   navbar:
   - title: Features
     url: /
-  - title: Pricing
+  - title: Programs
     url: /
-  - title: Dropdown
+  - title: Workshops
     sublinks:
     - title: Dropdown item
       url: /
