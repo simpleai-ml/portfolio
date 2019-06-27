@@ -1,4 +1,4 @@
-baseURL: https://optimistic-visvesvaraya-4376f9.netlify.com
+baseURL: https://simplai.com.au
 languageCode: en-us
 title: Simple AI
 theme: hugo-fresh
@@ -21,7 +21,7 @@ params:
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: illustrations/worker_new.jpeg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     - systek
