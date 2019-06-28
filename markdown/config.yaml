@@ -6,7 +6,7 @@ theme: hugo-fresh
 params:
   navbarlogo:
   # Logo (from static/images/logos/___)
-   image: logos/logo_simple.png
+   image: logos/logo_simple.jpeg
    link: /
   font:
     name: "Open Sans"
@@ -19,7 +19,7 @@ params:
     # Button text
     buttontext: Get Started
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "start.md"
     # Hero image (from static/images/___)
     image: illustrations/worker_new.jpeg
     # Footer logos (from static/images/logos/clients/___.svg)
