@@ -19,7 +19,7 @@ params:
     # Button text
     buttontext: Get Started
     # Where the main hero button links to
-    buttonlink: "start.md"
+    buttonlink: "/blog/start.md"
     # Hero image (from static/images/___)
     image: illustrations/worker_new.jpeg
     # Footer logos (from static/images/logos/clients/___.svg)
