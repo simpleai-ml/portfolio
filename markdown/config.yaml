@@ -43,9 +43,9 @@ params:
       url: /
     - title: Dropdown item
       url: /
-  - title: Log in
+#  - title: Log in
     url: /
-  - title: Sign up
+#  - title: Sign up
     url: /
     button: true
   section1:
